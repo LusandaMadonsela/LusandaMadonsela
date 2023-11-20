@@ -6,7 +6,7 @@
 
 My journey has led me through various languages and technologies, including HTML, CSS, C#, ASP.NET MVC, MS SQL, and Microsoft Azure. Passionate about continuous learning, I thrive on challenges and stay current with industry trends. My goal is to excel as a seasoned software developer, contributing innovative solutions and thriving in dynamic, cutting-edge environments. Let's connect and explore the possibilities together! 🌐
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Git and Github**
 
 - 📫 How to reach me **lusandalwazi@gmail.com**
 
