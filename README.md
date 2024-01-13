@@ -8,7 +8,7 @@ My journey has led me through various languages and technologies, including HTML
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **lusandalwazi@gmail.com**
+- 📫 How to reach me **lusandamadonsela22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
