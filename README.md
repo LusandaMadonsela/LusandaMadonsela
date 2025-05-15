@@ -1,12 +1,12 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">Hi 👋, I'm Lusanda Madonsela</h1>
-<h3 align="center">A passionate software developer from South Africa</h3>
+<h3 align="center">An aspiring IT professional from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lusmado&label=Profile%20views&color=0e75b6&style=flat" alt="lusmado" /> </p>
 
-My journey has led me through various languages and technologies, including HTML, CSS, C#, ASP.NET MVC, MS SQL, and Microsoft Azure. Passionate about continuous learning, I thrive on challenges and stay current with industry trends. My goal is to excel as a seasoned software developer, contributing innovative solutions and thriving in dynamic, cutting-edge environments. Let's connect and explore the possibilities together! 🌐
+Motivated IT graduate with hands-on experience in technical support and data capture. Skilled in troubleshooting, issue resolution, and data management. Strong in problem-solving, communication, and teamwork. Eager to learn, grow, and contribute to any area of IT, even at a basic level. Passionate about being involved in all aspects of technology and continuously building my skills in the field. Let's connect and explore the possibilities together! 🌐
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently looking for **Entry level positions within technical support or a software development internship**
 
 - 📫 How to reach me **lusandamadonsela22@gmail.com**
 
